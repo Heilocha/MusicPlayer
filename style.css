@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    display :flexbox;
+    
+}
+body{
+    background-color: black;
+    display : flex;
+    justify-content: center;
+}
+section{
+    margin: 20px;
+    display: inline-block;
+}
+.container{
+    background-color: #975922;
+    padding : 25px;
+    margin : 30px;
+}
+.sary{
+    width : 200px;
+    height : 200px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+}
+.premier h3{
+    width:150px;
+}
+.heart{
+    margin-left:70px;
+    width: 20px;
+}
+audio{
+    width:200px;
+    border-radius:10px;
+    background-color : black;
+}
+.good{
+    display: flex;
+    margin-bottom: 40px;
+}
+.cloche, .para{
+    width: 20px;
+    margin-left: 5px;
+}
+.deuxieme h4{
+    margin-bottom: 10px;
+}
+.up {
+    display : inline-block;
+    margin : 10px;
+    width:150px;
+}
+p{
+    font-size: 10px;
+}
+.logo{
+    width:40px;
+    border-radius: 20px;
+}
+.heure , .date{
+    width:15px;
+    margin-left:5px;
+    margin-right: 5px;
+}
+.fotoana{
+    display: flex;
+}
+.fotoana p{
+    margin-right: 10px;
+    padding: 5px;
+    background-color: rgba(128, 128, 128, 0.486);
+    border-radius: 10px;
+}
+.deuxieme h1{
+    margin: 10px;
+}
+.annee{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgba(245, 244, 240, 0.582);
+    border-radius: 10px; 
+    box-sizing: border-box; 
+    width: 200px;  
+}
+.the{
+    font-size: 30px;
+    color : black;
+    font-weight: bold;
+}
+.s{
+    font-size: 60px;
+    font-weight: bold;
+}
