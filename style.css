@@ -18,6 +18,9 @@ section{
 }
 .container{
     background-color: #975922;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
     padding : 25px;
     margin : 30px;
 }
